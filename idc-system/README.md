@@ -1,4 +1,4 @@
-<font size=7 color=red><b>该项目从代码到readme都是AI写的，提示词放在最下面吧，水平原因还没部署，谁部署成功了告诉我一声！</b></font>
+# <font size=7 color=red><b>该项目从代码到readme都是AI写的，提示词放在最下面吧，水平原因还没部署，谁部署成功了告诉我一声！</b></font>
 
 
 # IDC机房管理系统
@@ -272,5 +272,6 @@ users, roles, permissions（用户管理） servers, server_groups（服务器�
 
 生成前端项目的完整代码（组件、页面、服务） 生成后端项目的完整代码（路由、控制器、服务） 生成数据库初始化脚本 生成Docker配置文件 生成详细的部署步骤说明 生成测试数据脚本
 ```
+
 
 
